@@ -1,5 +1,9 @@
 body {
     margin: 0;
+    background-image: url("https://github.com/nuskaLore/jlivez.github.io/blob/main/Color%20logo%20with%20background.png?raw=true");
+    background-repeat: no-repeat;
+    background-position: center;
+  background-attachment: fixed;
 }
 
 header {
