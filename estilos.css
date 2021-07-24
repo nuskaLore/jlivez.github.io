@@ -10,22 +10,7 @@ header {
 #btn-menu {
     display: none;
 }
-.btn-neon{
-  position: relative;
-  display: inline-block;
-  padding: 15px 30px;
-  color: #fff;
-  letter-spacing: 4px;
-  font-size: 24px;
-  text-decoration: none;
-  overflow: hidden;
-  transition: 0.1s;
-}
 
-.btn-neon:hover{
-  background: #000
-  box-shadow: 0 0 10px #000, 0 0 40px #000, 0 0 80px #000;
-}
 
 header label {
     display: none;
@@ -37,7 +22,7 @@ header label {
 
 header label:hover {
     cursor: pointer;
-    background: #991720;
+    background: #fff;
 }
 
 .menu ul {
